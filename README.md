@@ -19,5 +19,5 @@ $ sudo du -sh * | sort -h
 Alternatively, you could run this command:
 
 ```bash
-du -h --max-depth=1 | sort -hr
+$ du -h --max-depth=1 | sort -hr
 ```
