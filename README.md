@@ -15,9 +15,3 @@ This does the same thing as the following command:
 ```bash
 $ sudo du -sh * | sort -h
 ```
-
-Alternatively, you could run this command:
-
-```bash
-$ du -h --max-depth=1 | sort -hr
-```
